@@ -1,2 +1,2 @@
 # LearningGit
-My tutorial on learning git
+Repository for learning Git and Git commands.
